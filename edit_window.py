@@ -1,7 +1,7 @@
 import tkinter as tk
 from tkinter import *
 from tkinter import messagebox
-from add_student_data import DatabaseManage
+from patient_add import DatabaseManage
 
 class EditStudent(tk.Frame):
     

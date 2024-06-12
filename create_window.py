@@ -1,6 +1,6 @@
 import tkinter as tk
 from tkinter import *
-from add_student_data import DatabaseManage
+from patient_add import DatabaseManage
 
 class AddStudent(tk.Frame):
 

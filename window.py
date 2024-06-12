@@ -3,7 +3,7 @@ from tkinter import *
 from tkinter import ttk
 from create_window import AddStudent as astd
 from edit_window import EditStudent as edtstd
-from add_student_data import DatabaseManage
+from patient_add import DatabaseManage
 
 class MainWindow(tk.Frame):
     def __init__(self, parent):
